@@ -1,6 +1,6 @@
 {
-  "issuer": "https://wxietoonca.github.io/wif",
-  "jwks_uri": "https://wxietoonca.github.io/wif/.well-known/jwks.json",
+  "issuer": "https://sfwaynexie.github.io/wif",
+  "jwks_uri": "https://sfwaynexie.github.io/wif/.well-known/jwks.json",
   "response_types_supported": ["none"],
   "subject_types_supported": ["public"],
   "id_token_signing_alg_values_supported": ["RS256"]
